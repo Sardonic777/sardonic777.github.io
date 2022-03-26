@@ -1,1 +1,1 @@
-[My Webspage](https://sardonic777.github.io/)
+[My Webpage](https://sardonic777.github.io/)
